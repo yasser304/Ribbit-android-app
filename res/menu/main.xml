@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ysr.ribbit.MainActivity" >
+    <item android:id="@+id/main_logout_menuItem" android:title="@string/main_logout_menuItem_label"></item>
+
+</menu>
