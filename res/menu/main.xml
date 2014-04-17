@@ -2,5 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.ysr.ribbit.MainActivity" >
     <item android:id="@+id/main_logout_menuItem" android:title="@string/main_logout_menuItem_label"></item>
+    <item android:id="@+id/main_edit_friends_menuItem" android:title="@string/main_edit_friends_menuItem_label"></item>
 
 </menu>
